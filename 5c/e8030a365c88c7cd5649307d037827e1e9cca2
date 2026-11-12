@@ -1,0 +1,20 @@
+pkg/promclient/metric_api.go
+  h_d96b4bd37ce9f1 1-97
+pkg/promclient/metric_api_test.go
+  h_d96b4bd37ce9f1 1-144
+pkg/servergroup/request_metric_test.go
+  h_d96b4bd37ce9f1 1-100
+pkg/servergroup/servergroup.go
+  h_d96b4bd37ce9f1 384-394,470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "5ce8030a365c88c7cd5649307d037827e1e9cca2",
+  "prompts": {},
+  "humans": {
+    "h_d96b4bd37ce9f1": {
+      "author": "Álvaro Aido Blanco <101638054+alvaroabl@users.noreply.github.com>"
+    }
+  }
+}
